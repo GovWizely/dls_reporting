@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/GovWizely/dls_reporting.svg?style=svg)](https://circleci.com/gh/GovWizely/dls_reporting)
 # Overview
 
 This project converts bibliographic data encoded in [MARC21](http://en.wikipedia.org/wiki/MARC_standards) to JSON documents ready for indexing in [Elasticsearch](https://www.elastic.co).
